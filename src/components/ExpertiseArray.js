@@ -1,0 +1,39 @@
+const ExpertiseArray =[
+    {
+        imgUrl:"../Images/expertiseIcons/html5.png"
+    },
+    {
+        imgUrl:"../Images/expertiseIcons/css3.png"
+    },
+    {
+        imgUrl:"../Images/expertiseIcons/javaScript.png"
+    },
+    {
+        imgUrl:"../Images/expertiseIcons/bootstrap.png"
+    },
+    {
+        imgUrl:"../Images/expertiseIcons/react.png"
+    },
+    {
+        imgUrl:"../Images/expertiseIcons/nodeJs.png"
+    },
+    {
+        imgUrl:"../Images/expertiseIcons/express.png"
+    },
+    {
+        imgUrl:"../Images/expertiseIcons/mongoDb.png"
+    },
+    {
+        imgUrl:"../Images/expertiseIcons/mongoose.png"
+    },
+    {
+        imgUrl:"../Images/expertiseIcons/material.png"
+    },
+    {
+        imgUrl:"../Images/expertiseIcons/firebase.png"
+    },
+    {
+        imgUrl:"../Images/expertiseIcons/devlopment.png"
+    },
+]
+export default ExpertiseArray;

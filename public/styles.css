@@ -1,0 +1,131 @@
+
+body{
+    font-family: 'Mulish', sans-serif;
+}
+.link{
+    margin-left:25px;
+}
+.link:hover{
+    text-decoration: none;
+}
+.navbarStyle{
+    background-color:#fff;
+    /* border-bottom: 1px solid blue; */
+}
+.activeLink{
+    font-weight:bold;
+    border-bottom: 1px solid #3498db 
+}
+.mainHome{
+    margin-top:20px;
+}
+#header .btn-get-started{
+    font-weight: 500;
+    font-size: 16px;letter-spacing:1px;
+    display: inline-block;
+    padding:10px 30px;
+    border-radius: 50px;
+    transition:0.5s;
+    color:#3498db;
+    border:2px solid #3498db;text-decoration:none;
+}
+.header-img{
+    text-align: center;
+    width: 30px;
+    height: 40px;
+}
+.avatar-image{
+    height: 200px;
+      border-radius:130px;
+      margin-top: 5px;
+      width: 200px;
+      margin-right: 40px;
+}
+.education{
+    background-color: #353738;
+    color:#fff;
+    
+}
+.education h2,h3,h4,p{
+    margin-left: 20px;
+    color:rgb(199, 195, 195)
+}
+.education h3,h4{
+    color: #3498db;
+}
+ .resumeStyle h2{
+    margin-top:40px;
+    
+ }
+ .contact-body{
+    text-align: center;
+    justify-content:center;
+    background:white;
+    color:#C75047;
+    margin-top: 60px;
+
+ }
+ .brand_name{
+     font-size:2rem;
+     font-weight: bold;
+ }
+ .brand_name:hover{
+     text-decoration: none;
+ }
+ .cardStyle{
+     height: 100%;
+     margin-top:30px;
+ }
+ .cardButton{
+    font-weight: 500;
+    font-size: 16px;letter-spacing:1px;
+    display: inline-block;
+    padding:10px 20px;
+    border-radius: 50px;
+    transition:0.5s;
+    color:#3498db;
+    border:2px solid #3498db;text-decoration:none;
+ }
+ .projectJumbotron{
+    background-color: #fff;
+}
+img{
+    width:100%;
+    height:100%
+}
+.personalInfo h2,h3,h4,h5{
+    color:#3498db;
+}
+.personalInfo p{
+    color:rgb(155, 44, 44);
+}
+.jumbotronHeader  {
+    background: url("webproject.gif");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:600px;
+    background-attachment: fixed;
+    color:#3498db;
+  }
+  .jumbotronHeader2 {
+    background-image: url("home.gif");
+    background-attachment: fixed; 
+    background-position: right;
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:600px;
+    color:#3498db;
+  }
+  span p{
+    color:#3498db;
+  }
+  .expertise{
+      color:#3498db;
+      text-align:center;
+  }
+ .contact-list{
+     margin-left: 0 auto;
+ }
+ .contact-list a:hover{
+     font-weight: 500;
+ }
